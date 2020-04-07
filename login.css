@@ -1,0 +1,56 @@
+#headtext{
+    font-size: 170%;
+    font-display: block;
+    background-color: #77CED9;
+    color: aliceblue
+}
+
+input{
+    margin: auto;
+    text-align: left;
+    padding-left: 10px;
+    align-content: center;
+    width: 360px;
+    align-self: center;
+    font-style: italic;
+    margin-top: 20px
+}
+
+.btn{
+    width: 360px;
+    height: 35px;
+    text-align: center;
+    font-style:oblique;
+    background-color: #76CDD8
+}
+
+.alt1{
+    background-color: #6582BD;
+    text-decoration-style: wavy;
+    font-weight: bold
+}
+
+.alt2{
+    background-color: #E47C6D;
+    text-decoration-style: wavy;
+    font-weight: bold;
+    margin-top: 5px
+}
+
+.alt3{
+    background-color: #CEDB56;
+    margin-top: 40px
+}
+
+hr{
+    margin-bottom: 5px
+}
+
+.container{
+    text-align: center;
+    margin-top: 5%;
+    padding: 3% 3%;
+    border: 2px;
+    width: 60%;
+    background-color:darkgray;
+}
